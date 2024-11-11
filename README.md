@@ -1,2 +1,2 @@
-# Bayesian models & data analysis (CGS698C)
+# Kanpur Language Processing, Lab
 
